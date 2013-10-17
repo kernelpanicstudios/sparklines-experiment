@@ -10,5 +10,6 @@ How to run
 
 Two options:
 
-1) I've included a little node.js script I use to quickly spin up a development server for myself when I don't need FastCGI or other nonsense.  I think you need the "connect" module.
-2) You can just spin up your own development instance of Apache or Nginx.  Just point it at the "site" folder as root.
+1. I've included a little node.js script I use to quickly spin up a development server for myself when I don't need FastCGI or other nonsense.  I think you need the "connect" module.
+
+2. You can just spin up your own development instance of Apache or Nginx.  Just point it at the "site" folder as root.
