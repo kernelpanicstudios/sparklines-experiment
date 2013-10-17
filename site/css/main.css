@@ -1,0 +1,12 @@
+.d3-sparkline {
+    color: blue;
+    width: 45px;
+    height: 12px;
+    display: inline-block;
+}
+
+path {
+    stroke: blue;
+    stroke-width: 1;
+    fill: none;
+}
